@@ -40,3 +40,8 @@ http://forum.fcraft.net/viewtopic.php?f=2&t=22
 
 Old script (most likely not working anymore) to scan various griefer forums for nicknames to blacklist.
 Blacklisted names are matched to joining player names on Minecraft server / IRC channel and reported if a match is found.
+
+Supposedly you can still try running it after configuring ```MA.ini``` for the settings:
+
+    /load -rs ICHG.mrc 
+    /icanhasgrief 
