@@ -1,5 +1,7 @@
 # Dankirk - minecraft-irc-bot 
-Legacy mIRC script for "Dankirk" minecraft bot on IRC. Answers FAQs, records stats, reports compromised accounts and tells jokes
+Legacy mIRC script for "Dankirk" minecraft bot on IRC. Answers FAQs, records stats, reports compromised accounts and tells jokes.
+
+This is an old project from circa 2014 and is not maintained anymore. This is here for legacy purposes only. 
 
 
 # Usage and development info
