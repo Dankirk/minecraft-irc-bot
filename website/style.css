@@ -1,0 +1,76 @@
+html {
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	font: 14px Verdana, Arial, Helvetica, sans-serif;
+	background-color: #424242;
+	min-width: 1260px;
+}
+.style #header {
+	color: #FFFFFF;
+	padding-top: 5px;
+	padding-left: 30px;
+	height: 80px;
+	vertical-align: middle;
+	margin-top: 30px;
+	font-size: 16px;
+	background: #333333;
+}
+.style #main {	
+	color: #000000;
+	background: #7A7878;
+}
+.style #main div {
+	vertical-align: top;
+	padding: 10px;
+	padding-right: 0px;
+}
+.style #leftside {
+	width: 250px;
+	display: inline-block;	
+}
+.style #content {
+	font-size: 12px;
+	display: inline-block;
+	width: 985px;
+	padding-right: 0px;
+}
+.style #content div {
+	vertical-align: top;
+	padding: 10px;
+	margin: 0px;
+}
+.style #footer {
+	font-size: 16px;
+	padding-left: 25px;
+	color: #FFFFFF;
+	background: #333333;
+}
+.style #footer a:link {color: #FFFFFF; text-decoration: underline; }
+.style #footer a:visited {color: #FFFFFF; text-decoration: underline; }
+.style #footer a:hover {color: #FF0000; text-decoration: underline; }
+.style #footer a:active {color: #FF0000; text-decoration: underline; }
+
+.style #nav-menu {
+	background-color: #A9A9A9;
+	height: 20px;
+}
+.style #pagedata {
+	background-color: #D3D3D3;
+}
+.style #nav-menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+} 
+.style #nav-menu li {
+	float: left;
+} 
+.style #nav-menu input {
+	height: 25px;
+}
+#RuleTable tr {
+	height: 10px;
+	line-height: 10px;
+}
